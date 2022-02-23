@@ -21,13 +21,12 @@ I recently started posting on my blog <a href="https://ospeks.com"> Ospeks !
 - 📫 How to reach me: `email`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
-  <br>
-
-
+  
 <br>
+  ---
 <h2 align="center">Some stats: 📝</h2>  
 <br>
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentJMA&theme=aura&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentJMA&theme=aura" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SilentJMA&theme=aura&show_icons=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentJMA&theme=aura" height="200"/> 
 </p>
