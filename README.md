@@ -27,10 +27,6 @@ I recently started posting on my blog <a href="https://ospeks.com"> Ospeks !
 <br>
 <h2 align="center">Some stats: 📝</h2>  
 <br>
-<p float="center">
-  <img align='center' src="https://badge42.herokuapp.com/api/stats/mjabane?darkmode=true&cursus=42cursus" height="150"/>
-</p>
-<br>
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SilentJMA&theme=aura&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentJMA&theme=aura" height="150"/> 
