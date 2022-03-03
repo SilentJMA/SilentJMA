@@ -1,4 +1,4 @@
-<h2 align="center">Yo! I'm Mohamed Ayoub</h2> 
+<h2 align="center">Yo! I'm Mohamed Ayoub AKA MJabane 🐋 </h2> 
 <p align="center">
   <img src="https://gpvc.arturio.dev/SilentJMA" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=silentjma&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/silentjma?label=%40silentjma&style=social"></a>  •
