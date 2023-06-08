@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h2 align="center">Yo! I'm Mohamed Ayoub Jabane AKA SilentJMA 🐋 </h2> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilentJMA&style=for-the-badge" alt="profile views"> 
