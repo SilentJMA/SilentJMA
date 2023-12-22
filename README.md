@@ -10,10 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm on my journey as a Developer seeking a lot of Experiences. 
 
-I recently started posting on my blog <a href="https://ospeks.com"> Ospeks !
-
-<a href="https://">
-</a>
+I recently started posting on my blog <a href="https://ospeks.com" target="_blank"> Ospeks ! </a>
 
 - See my [full about page here].
 - 👯 I am on .
