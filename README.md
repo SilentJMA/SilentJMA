@@ -31,7 +31,8 @@ I connect systems, data and AI so they work together in production:
 |---|---|---|
 | [**ucp-connector-for-woocommerce**](https://github.com/SilentJMA/ucp-connector-for-woocommerce) | Implements the Universal Commerce Protocol (UCP) and ACP so AI agents can transact with WooCommerce, with secure checkout session APIs and agent authorization controls | PHP |
 | [**enterprise-agentic-playbook**](https://github.com/SilentJMA/enterprise-agentic-playbook) | Open-source playbook for adopting agentic AI in the enterprise (2026) | Docs |
-| [**codex-cstack**](https://github.com/SilentJMA/codex-cstack) · [**openclaw-oracle-starter**](https://github.com/SilentJMA/openclaw-oracle-starter) | Tooling and starter setups for AI-assisted / agent workflows | Shell |
+| [**codex-cstack**](https://github.com/SilentJMA/codex-cstack) | Turns Codex from one generic assistant into explicit delivery modes (planning, engineering design, review, release, QA, retros), inspired by gstack | Shell |
+| [**openclaw-oracle-starter**](https://github.com/SilentJMA/openclaw-oracle-starter) | One-script installer for a self-hosted OpenClaw server on an Oracle Cloud Ubuntu VM: Gateway, Open WebUI, HTTPS via Nginx and Let's Encrypt, Telegram access, web search and browser fallback | Shell |
 
 ### 🔄 Data integration
 | Project | What it does | Stack |
